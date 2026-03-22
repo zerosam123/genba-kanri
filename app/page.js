@@ -1,4 +1,4 @@
-"use client";
+"use client"; 
 import { useState } from "react";
 
 const S = ["未着","作業中","完了"];
